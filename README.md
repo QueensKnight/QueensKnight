@@ -129,5 +129,5 @@ Fira Code font for the "terminal" feel. -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0033,100:0d1117&height=100&section=footer" width="100%"/>
 
 <sub>`> connection terminated. re-run whoami.sh anytime.` █</sub>
-
+ 
 </div>
