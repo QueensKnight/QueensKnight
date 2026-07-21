@@ -1,0 +1,56 @@
+name: Circuit Pulse
+
+# Regenerates the two Circuit Pulse SVGs (dark + light) from real
+# contribution data and publishes them to the `output` branch, which the
+# README embeds via raw.githubusercontent.com.
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate Circuit Pulse SVGs
+        env:
+          GH_USERNAME: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.CIRCUIT_PULSE_TOKEN }}
+        run: node scripts/generate-circuit.mjs
+
+      - name: Publish to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Work in a separate worktree so the main branch checkout (and the
+          # scripts/ directory the generator needs) is never disturbed.
+          if git ls-remote --exit-code --heads origin output > /dev/null 2>&1; then
+            git worktree add out-branch output
+          else
+            git worktree add --orphan -b output out-branch
+          fi
+
+          cp dist/circuit-dark.svg out-branch/circuit-dark.svg
+          cp dist/circuit-light.svg out-branch/circuit-light.svg
+
+          cd out-branch
+          git add circuit-dark.svg circuit-light.svg
+          git commit -m "chore: refresh circuit pulse $(date -u +'%Y-%m-%d %H:%M UTC')" --allow-empty
+          git push origin output

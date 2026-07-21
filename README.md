@@ -1,133 +1,115 @@
-<!-- ============================================================
-     QueensKnight/QueensKnight — GitHub Profile README
-     Theme: Sci-Fi / Cyberpunk Terminal
-     ============================================================ -->
-
 <div align="center">
 
-<!-- ===== BANNER =====
-Generated live by capsule-render (no image hosting needed).
-type=waving gives a smooth "energy field" edge; swap for "soft" if you want
-a flatter, more circuit-board feel. color=0:0d1117,100:1a0033 gives a
-black-to-deep-purple gradient. Adjust text below. -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0033,100:0d1117&height=220&section=header&text=QUEENSKNIGHT.SYS&fontColor=39ff14&fontSize=55&fontAlignY=35&animation=fadeIn&desc=Compiling%20a%20developer...&descAlignY=55&descSize=18&descColor=00fff9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:1a0033,100:0d1117&section=header" width="100%"/>
 
-<!-- ===== TERMINAL BOOT / TYPING HEADER =====
-readme-typing-svg: dark background (0d1117), neon cyan text, monospace
-Fira Code font for the "terminal" feel. -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Initializing+Shaurya_Pratap_Singh.exe...;%3E+Loading+module%3A+DSA_%2F_CP_Enthusiast;%3E+Loading+module%3A+Aspiring_MERN_Developer;%3E+Loading+module%3A+GSoC_2027_Candidate;%3E+System+ready._" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&height=60&lines=Shaurya+Pratap+Singh;DSA+%26+Competitive+Programmer;MERN+Stack+Developer;Systems-Oriented+Problem+Solver" alt="typing banner"/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/BUILD-LEARNING__MODE-00fff9?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/UPTIME-24%2F7__GRINDING-bc13fe?style=for-the-badge&labelColor=0d1117" />
+![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0d1117)
+![Role](https://img.shields.io/badge/ROLE-DEVELOPER-00FFF9?style=for-the-badge&labelColor=0d1117)
+![Uptime](https://img.shields.io/badge/UPTIME-24%2F7-BC13FE?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
-<br/>
+---
 
-<!-- ===== ABOUT / WHOAMI ===== -->
-## `root@queensknight:~$ whoami`
+### `whoami`
 
 ```yaml
-> user:         Shaurya Pratap Singh
-> alias:        QueensKnight
-> class:        Self-Taught CS Learner
-> status:       Actively deployed to production (i.e. real life)
-
-> current_process[1]: Striver's A2Z DSA Course :: C++ :: [in_progress]
-> current_process[2]: MERN Stack Fundamentals  :: JS   :: [in_progress]
-> current_process[3]: GSoC 2027 Prep Roadmap   :: MERN + DSA :: [scheduled]
-
-> methodology:  Structured notes, mistake-log notebooks, spaced repetition
-> mission:      Ship clean code, solve hard problems, get into GSoC 2027
+user:  Shaurya Pratap Singh
+alias: QueensKnight
+class: Full-Stack Developer / Competitive Programmer
+lang:  C++ (primary), JavaScript, Python
+os:    Windows + MSYS2/UCRT64 toolchain
 ```
 
-<br/>
+---
 
-<!-- ===== TECH STACK ===== -->
-## `root@queensknight:~$ cat tech_stack.json`
+### `cat tech_stack.json`
+
+```json
+{
+  "languages":  ["C++", "JavaScript", "Python", "HTML5", "CSS3"],
+  "frameworks": ["React", "Node.js", "Express", "MongoDB"],
+  "tools":      ["Git", "GitHub", "VS Code", "Notion", "Linux"]
+}
+```
+
+<div align="center">
 
 **Languages**
-
-<img src="https://img.shields.io/badge/C++-00fff9?style=for-the-badge&logo=cplusplus&logoColor=0d1117&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/JavaScript-39ff14?style=for-the-badge&logo=javascript&logoColor=0d1117&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Python-bc13fe?style=for-the-badge&logo=python&logoColor=0d1117&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/HTML5-00fff9?style=for-the-badge&logo=html5&logoColor=0d1117&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/CSS3-39ff14?style=for-the-badge&logo=css3&logoColor=0d1117&labelColor=0d1117" />
-
-**Currently Learning**
-
-<img src="https://img.shields.io/badge/React-bc13fe?style=for-the-badge&logo=react&logoColor=0d1117&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Node.js-00fff9?style=for-the-badge&logo=node.js&logoColor=0d1117&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Express-39ff14?style=for-the-badge&logo=express&logoColor=0d1117&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MongoDB-bc13fe?style=for-the-badge&logo=mongodb&logoColor=0d1117&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/DSA-00fff9?style=for-the-badge&logo=leetcode&logoColor=0d1117&labelColor=0d1117" />
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-39ff14?style=for-the-badge&logo=git&logoColor=0d1117&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/VS_Code-bc13fe?style=for-the-badge&logo=visualstudiocode&logoColor=0d1117&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/GitHub-00fff9?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Notion-39ff14?style=for-the-badge&logo=notion&logoColor=0d1117&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Linux_(MSYS2)-bc13fe?style=for-the-badge&logo=linux&logoColor=0d1117&labelColor=0d1117" />
-
 <br/>
+![C++](https://img.shields.io/badge/C%2B%2B-39FF14?style=for-the-badge&logo=cplusplus&logoColor=0d1117&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-39FF14?style=for-the-badge&logo=javascript&logoColor=0d1117&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=0d1117&labelColor=0d1117)
+![HTML5](https://img.shields.io/badge/HTML5-39FF14?style=for-the-badge&logo=html5&logoColor=0d1117&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/CSS3-39FF14?style=for-the-badge&logo=css3&logoColor=0d1117&labelColor=0d1117)
 
-<!-- ===== GITHUB STATS ===== -->
-## `root@queensknight:~$ ./run_diagnostics.sh`
+**Frameworks & Libraries**
+<br/>
+![React](https://img.shields.io/badge/React-00FFF9?style=for-the-badge&logo=react&logoColor=0d1117&labelColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-00FFF9?style=for-the-badge&logo=nodedotjs&logoColor=0d1117&labelColor=0d1117)
+![Express](https://img.shields.io/badge/Express-00FFF9?style=for-the-badge&logo=express&logoColor=0d1117&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-00FFF9?style=for-the-badge&logo=mongodb&logoColor=0d1117&labelColor=0d1117)
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=QueensKnight&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00FFF9&text_color=C9D1D9&ring_color=BC13FE" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueensKnight&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&langs_count=8" />
-
-<img src="https://streak-stats.demolab.com?user=QueensKnight&hide_border=true&background=0D1117&stroke=0D1117&ring=00FFF9&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&dates=6E7681&currStreakNum=BC13FE&sideNums=BC13FE" />
+**Tools & Platforms**
+<br/>
+![Git](https://img.shields.io/badge/Git-BC13FE?style=for-the-badge&logo=git&logoColor=0d1117&labelColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-BC13FE?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117)
+![VS Code](https://img.shields.io/badge/VS%20Code-BC13FE?style=for-the-badge&logo=visualstudiocode&logoColor=0d1117&labelColor=0d1117)
+![Notion](https://img.shields.io/badge/Notion-BC13FE?style=for-the-badge&logo=notion&logoColor=0d1117&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-BC13FE?style=for-the-badge&logo=linux&logoColor=0d1117&labelColor=0d1117)
 
 </div>
 
-<br/>
+---
 
-<!-- ===== CONTRIBUTION SNAKE ===== -->
-## `root@queensknight:~$ ./contribution_snake --mode=neon`
+### `./run_diagnostics.sh`
 
 <div align="center">
 
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/QueensKnight/QueensKnight/output/snake-dark.svg" alt="contribution snake" />
-<!--END_SECTION:snake-->
+<img src="https://github-readme-stats.vercel.app/api?username=QueensKnight&show_icons=true&theme=react&bg_color=0d1117&title_color=39FF14&icon_color=00FFF9&text_color=c9d1d9&border_color=233047" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueensKnight&layout=compact&theme=react&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&border_color=233047" alt="Top languages" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=QueensKnight&theme=react&background=0d1117&stroke=233047&ring=39FF14&fire=BC13FE&currStreakLabel=39FF14" alt="Streak stats"/>
 
 </div>
 
-> ⚠️ The snake image above will only render **after** you set up the GitHub Action below (one-time setup — see step 3 in the instructions).
+---
 
-<br/>
+### `./circuit_pulse.sh`
 
-<!-- ===== FOOTER / SIGN-OFF ===== -->
-## `root@queensknight:~$ ./connect.sh`
-
-```yaml
-> channel[email]:    your.email@example.com
-> channel[linkedin]: linkedin.com/in/your-handle
-> channel[leetcode]: leetcode.com/your-handle
-> status:            Open to collabs, GSoC mentorship & CP discussions
-```
+A live PCB-style read-out of the same contribution data everyone else shows
+as a snake — except here it drives an actual circuit. Pulse speed on the
+traces reflects your last four weeks of activity, the bottom strip is a
+52-week activity spectrum, and the header numbers update with every run.
+It's regenerated by a GitHub Action on every push and every 12 hours, so
+this is never a static image.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff9" />
-<img src="https://img.shields.io/badge/-LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/-Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=bc13fe" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QueensKnight/QueensKnight/output/circuit-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QueensKnight/QueensKnight/output/circuit-light.svg">
+  <img alt="circuit pulse — live contribution-driven visualization" src="https://raw.githubusercontent.com/QueensKnight/QueensKnight/output/circuit-dark.svg" width="100%"/>
+</picture>
 
-<br/><br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=QueensKnight&label=TERMINAL+VISITS&color=39ff14&style=for-the-badge&labelColor=0d1117" />
+> **One-time setup required** — see `SETUP.md` for wiring up the token and
+> Action. Until the first run finishes, this image will 404.
 
-<br/><br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0033,100:0d1117&height=100&section=footer" width="100%"/>
+### `./connect.sh`
 
-<sub>`> connection terminated. re-run whoami.sh anytime.` █</sub>
- 
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-EMAIL_HERE-39FF14?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117)](im.shaurya.p.singh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-00FFF9?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117)](https://linkedin.com/in/queensknight)
+[![LeetCode](https://img.shields.io/badge/LeetCode-PROFILE-BC13FE?style=for-the-badge&logo=leetcode&logoColor=0d1117&labelColor=0d1117)](https://leetcode.com/QueensKnight)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,50:1a0033,100:0d1117&section=footer" width="100%"/>
 </div>
