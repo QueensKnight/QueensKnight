@@ -67,8 +67,6 @@ os:    Windows + MSYS2/UCRT64 toolchain
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=QueensKnight&show_icons=true&theme=react&bg_color=0d1117&title_color=39FF14&icon_color=00FFF9&text_color=c9d1d9&border_color=233047" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueensKnight&layout=compact&theme=react&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&border_color=233047" alt="Top languages" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=QueensKnight&theme=react&background=0d1117&stroke=233047&ring=39FF14&fire=BC13FE&currStreakLabel=39FF14" alt="Streak stats"/>
 
