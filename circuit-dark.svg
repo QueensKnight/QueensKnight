@@ -21,7 +21,7 @@
     root@queensknight:~/circuit-pulse$ <tspan fill="#39ff14">status --live</tspan>
   </text>
   <text x="930" y="34" text-anchor="end" font-family="'Fira Code', monospace" font-size="11.5" fill="#6b7280">
-    &gt; total_commits: 581   current_streak: 0d   longest_streak: 33d   active_days: 51
+    &gt; total_commits: 593   current_streak: 0d   longest_streak: 33d   active_days: 52
   </text>
   <path d="M 30 44 L 930 44" stroke="#233047" stroke-width="1" opacity="0.6"/>
 
@@ -146,102 +146,102 @@
   <g filter="url(#glow-dark)">
     
         <circle r="3.4" fill="#39ff14">
-          <animateMotion dur="2.52s" begin="0.00s" repeatCount="indefinite" rotate="auto">
+          <animateMotion dur="2.46s" begin="0.00s" repeatCount="indefinite" rotate="auto">
             <mpath href="#pulse-path-dark-1"/>
           </animateMotion>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1"
-                   dur="2.52s" begin="0.00s" repeatCount="indefinite"/>
+                   dur="2.46s" begin="0.00s" repeatCount="indefinite"/>
         </circle>
         <circle r="3.4" fill="#39ff14">
-          <animateMotion dur="2.52s" begin="0.18s" repeatCount="indefinite" rotate="auto">
+          <animateMotion dur="2.46s" begin="0.18s" repeatCount="indefinite" rotate="auto">
             <mpath href="#pulse-path-dark-2"/>
           </animateMotion>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1"
-                   dur="2.52s" begin="0.18s" repeatCount="indefinite"/>
+                   dur="2.46s" begin="0.18s" repeatCount="indefinite"/>
         </circle>
         <circle r="3.4" fill="#39ff14">
-          <animateMotion dur="2.52s" begin="0.36s" repeatCount="indefinite" rotate="auto">
+          <animateMotion dur="2.46s" begin="0.36s" repeatCount="indefinite" rotate="auto">
             <mpath href="#pulse-path-dark-3"/>
           </animateMotion>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1"
-                   dur="2.52s" begin="0.36s" repeatCount="indefinite"/>
+                   dur="2.46s" begin="0.36s" repeatCount="indefinite"/>
         </circle>
         <circle r="3.4" fill="#39ff14">
-          <animateMotion dur="2.52s" begin="0.54s" repeatCount="indefinite" rotate="auto">
+          <animateMotion dur="2.46s" begin="0.54s" repeatCount="indefinite" rotate="auto">
             <mpath href="#pulse-path-dark-4"/>
           </animateMotion>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1"
-                   dur="2.52s" begin="0.54s" repeatCount="indefinite"/>
+                   dur="2.46s" begin="0.54s" repeatCount="indefinite"/>
         </circle>
         <circle r="3.4" fill="#39ff14">
-          <animateMotion dur="2.52s" begin="0.72s" repeatCount="indefinite" rotate="auto">
+          <animateMotion dur="2.46s" begin="0.72s" repeatCount="indefinite" rotate="auto">
             <mpath href="#pulse-path-dark-5"/>
           </animateMotion>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1"
-                   dur="2.52s" begin="0.72s" repeatCount="indefinite"/>
+                   dur="2.46s" begin="0.72s" repeatCount="indefinite"/>
         </circle>
         <circle r="3.4" fill="#00fff9">
-          <animateMotion dur="2.52s" begin="0.72s" repeatCount="indefinite" rotate="auto">
+          <animateMotion dur="2.46s" begin="0.72s" repeatCount="indefinite" rotate="auto">
             <mpath href="#pulse-path-dark-6"/>
           </animateMotion>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1"
-                   dur="2.52s" begin="0.72s" repeatCount="indefinite"/>
+                   dur="2.46s" begin="0.72s" repeatCount="indefinite"/>
         </circle>
         <circle r="3.4" fill="#00fff9">
-          <animateMotion dur="2.52s" begin="0.90s" repeatCount="indefinite" rotate="auto">
+          <animateMotion dur="2.46s" begin="0.90s" repeatCount="indefinite" rotate="auto">
             <mpath href="#pulse-path-dark-7"/>
           </animateMotion>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1"
-                   dur="2.52s" begin="0.90s" repeatCount="indefinite"/>
+                   dur="2.46s" begin="0.90s" repeatCount="indefinite"/>
         </circle>
         <circle r="3.4" fill="#00fff9">
-          <animateMotion dur="2.52s" begin="1.08s" repeatCount="indefinite" rotate="auto">
+          <animateMotion dur="2.46s" begin="1.08s" repeatCount="indefinite" rotate="auto">
             <mpath href="#pulse-path-dark-8"/>
           </animateMotion>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1"
-                   dur="2.52s" begin="1.08s" repeatCount="indefinite"/>
+                   dur="2.46s" begin="1.08s" repeatCount="indefinite"/>
         </circle>
         <circle r="3.4" fill="#00fff9">
-          <animateMotion dur="2.52s" begin="1.26s" repeatCount="indefinite" rotate="auto">
+          <animateMotion dur="2.46s" begin="1.26s" repeatCount="indefinite" rotate="auto">
             <mpath href="#pulse-path-dark-9"/>
           </animateMotion>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1"
-                   dur="2.52s" begin="1.26s" repeatCount="indefinite"/>
+                   dur="2.46s" begin="1.26s" repeatCount="indefinite"/>
         </circle>
         <circle r="3.4" fill="#bc13fe">
-          <animateMotion dur="2.52s" begin="1.80s" repeatCount="indefinite" rotate="auto">
+          <animateMotion dur="2.46s" begin="1.80s" repeatCount="indefinite" rotate="auto">
             <mpath href="#pulse-path-dark-10"/>
           </animateMotion>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1"
-                   dur="2.52s" begin="1.80s" repeatCount="indefinite"/>
+                   dur="2.46s" begin="1.80s" repeatCount="indefinite"/>
         </circle>
         <circle r="3.4" fill="#bc13fe">
-          <animateMotion dur="2.52s" begin="1.98s" repeatCount="indefinite" rotate="auto">
+          <animateMotion dur="2.46s" begin="1.98s" repeatCount="indefinite" rotate="auto">
             <mpath href="#pulse-path-dark-11"/>
           </animateMotion>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1"
-                   dur="2.52s" begin="1.98s" repeatCount="indefinite"/>
+                   dur="2.46s" begin="1.98s" repeatCount="indefinite"/>
         </circle>
         <circle r="3.4" fill="#bc13fe">
-          <animateMotion dur="2.52s" begin="2.16s" repeatCount="indefinite" rotate="auto">
+          <animateMotion dur="2.46s" begin="2.16s" repeatCount="indefinite" rotate="auto">
             <mpath href="#pulse-path-dark-12"/>
           </animateMotion>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1"
-                   dur="2.52s" begin="2.16s" repeatCount="indefinite"/>
+                   dur="2.46s" begin="2.16s" repeatCount="indefinite"/>
         </circle>
         <circle r="3.4" fill="#bc13fe">
-          <animateMotion dur="2.52s" begin="2.34s" repeatCount="indefinite" rotate="auto">
+          <animateMotion dur="2.46s" begin="2.34s" repeatCount="indefinite" rotate="auto">
             <mpath href="#pulse-path-dark-13"/>
           </animateMotion>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1"
-                   dur="2.52s" begin="2.34s" repeatCount="indefinite"/>
+                   dur="2.46s" begin="2.34s" repeatCount="indefinite"/>
         </circle>
         <circle r="3.4" fill="#bc13fe">
-          <animateMotion dur="2.52s" begin="2.52s" repeatCount="indefinite" rotate="auto">
+          <animateMotion dur="2.46s" begin="2.52s" repeatCount="indefinite" rotate="auto">
             <mpath href="#pulse-path-dark-14"/>
           </animateMotion>
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.85;1"
-                   dur="2.52s" begin="2.52s" repeatCount="indefinite"/>
+                   dur="2.46s" begin="2.52s" repeatCount="indefinite"/>
         </circle>
   </g>
 
@@ -249,7 +249,7 @@
   <text x="60" y="366" font-family="'Fira Code', monospace" font-size="11"
         letter-spacing="2" fill="#6b7280">CONTRIB_SPECTRUM :: 53w</text>
   <path d="M 60 424 L 900 424" stroke="#233047" stroke-width="1"/>
-  <rect x="60.0" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="75.8" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="91.7" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="107.5" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="123.4" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="139.2" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="155.1" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="170.9" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="186.8" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="202.6" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="218.5" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="234.3" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="250.2" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="266.0" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="281.9" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="297.7" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="313.6" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="329.4" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="345.3" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="361.1" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="377.0" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="392.8" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="408.7" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="424.5" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="440.4" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="456.2" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="472.1" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="487.9" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="503.8" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="519.6" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="535.5" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="551.3" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="567.2" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="583.0" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="598.9" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="614.7" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="630.6" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="646.4" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="662.3" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="678.1" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="694.0" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="709.8" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.29"/><rect x="725.7" y="413.7" width="13.8" height="6.3" rx="1.5" fill="#39ff14" opacity="0.39"/><rect x="741.5" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.29"/><rect x="757.4" y="393.9" width="13.8" height="26.1" rx="1.5" fill="#39ff14" opacity="0.75"/><rect x="773.2" y="417.4" width="13.8" height="2.6" rx="1.5" fill="#39ff14" opacity="0.33"/><rect x="789.1" y="402.1" width="13.8" height="17.9" rx="1.5" fill="#39ff14" opacity="0.60"/><rect x="804.9" y="393.2" width="13.8" height="26.8" rx="1.5" fill="#39ff14" opacity="0.76"/><rect x="820.8" y="380.0" width="13.8" height="40.0" rx="1.5" fill="#39ff14" opacity="1.00"/><rect x="836.6" y="396.5" width="13.8" height="23.5" rx="1.5" fill="#39ff14" opacity="0.70"/><rect x="852.5" y="396.9" width="13.8" height="23.1" rx="1.5" fill="#39ff14" opacity="0.70"/><rect x="868.3" y="400.2" width="13.8" height="19.8" rx="1.5" fill="#39ff14" opacity="0.64"/><rect x="884.2" y="414.7" width="13.8" height="5.3" rx="1.5" fill="#39ff14" opacity="0.38"/>
+  <rect x="60.0" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="75.8" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="91.7" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="107.5" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="123.4" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="139.2" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="155.1" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="170.9" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="186.8" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="202.6" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="218.5" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="234.3" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="250.2" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="266.0" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="281.9" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="297.7" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="313.6" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="329.4" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="345.3" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="361.1" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="377.0" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="392.8" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="408.7" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="424.5" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="440.4" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="456.2" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="472.1" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="487.9" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="503.8" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="519.6" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="535.5" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="551.3" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="567.2" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="583.0" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="598.9" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="614.7" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="630.6" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="646.4" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="662.3" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="678.1" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="694.0" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.28"/><rect x="709.8" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.29"/><rect x="725.7" y="413.7" width="13.8" height="6.3" rx="1.5" fill="#39ff14" opacity="0.39"/><rect x="741.5" y="418.0" width="13.8" height="2.0" rx="1.5" fill="#39ff14" opacity="0.29"/><rect x="757.4" y="393.9" width="13.8" height="26.1" rx="1.5" fill="#39ff14" opacity="0.75"/><rect x="773.2" y="417.4" width="13.8" height="2.6" rx="1.5" fill="#39ff14" opacity="0.33"/><rect x="789.1" y="402.1" width="13.8" height="17.9" rx="1.5" fill="#39ff14" opacity="0.60"/><rect x="804.9" y="393.2" width="13.8" height="26.8" rx="1.5" fill="#39ff14" opacity="0.76"/><rect x="820.8" y="380.0" width="13.8" height="40.0" rx="1.5" fill="#39ff14" opacity="1.00"/><rect x="836.6" y="396.5" width="13.8" height="23.5" rx="1.5" fill="#39ff14" opacity="0.70"/><rect x="852.5" y="396.9" width="13.8" height="23.1" rx="1.5" fill="#39ff14" opacity="0.70"/><rect x="868.3" y="400.2" width="13.8" height="19.8" rx="1.5" fill="#39ff14" opacity="0.64"/><rect x="884.2" y="410.7" width="13.8" height="9.3" rx="1.5" fill="#39ff14" opacity="0.45"/>
   
     <rect x="60" y="374" width="14" height="52" fill="#00fff9" opacity="0.25">
       <animate attributeName="x" values="60;886;60" dur="9s" repeatCount="indefinite"/>
