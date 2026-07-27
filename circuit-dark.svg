@@ -21,7 +21,7 @@
     root@queensknight:~/circuit-pulse$ <tspan fill="#39ff14">status --live</tspan>
   </text>
   <text x="930" y="34" text-anchor="end" font-family="'Fira Code', monospace" font-size="11.5" fill="#6b7280">
-    &gt; total_commits: 642   current_streak: 3d   longest_streak: 33d   active_days: 55
+    &gt; total_commits: 642   current_streak: 0d   longest_streak: 33d   active_days: 55
   </text>
   <path d="M 30 44 L 930 44" stroke="#233047" stroke-width="1" opacity="0.6"/>
 
